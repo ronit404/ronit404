@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ronit Bhat!
 
-### 🎓 Final Year B.Tech CSE Student | Aspiring DevOps Engineer
+### 🎓 B.Tech CSE Student
 I am a passionate developer focused on building scalable applications and exploring the intersection of AI and Cloud Infrastructure.
 
 ---
