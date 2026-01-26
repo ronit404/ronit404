@@ -21,7 +21,6 @@ I am a passionate developer focused on building scalable applications and explor
 * **[Churn Predictor Pro](https://github.com/ronit404/flask-churn-app)** – An AI-powered Flask app using Random Forest & SHAP for transparent customer retention insights.
 * **[Team Balancer](https://team-balancer-kohl.vercel.app/)** – A smart utility for balanced team allocation, built with modern web tech and deployed on Vercel.
 * **[Vroom Automobiles](https://github.com/ronit404/vroom-automobiles)** – A sleek, responsive car dealership platform built with HTML/CSS/JS.
-* **[Bug Tracker](https://github.com/ronit404/bugtracker-frontend)** – A full-stack management tool for developers to track and resolve software issues efficiently.
 
 ---
 
