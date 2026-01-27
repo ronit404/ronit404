@@ -19,7 +19,7 @@ I am a passionate developer focused on building scalable applications and explor
 ### 🚀 Key Projects
 
 * **[Team Balancer](https://team-balancer-kohl.vercel.app/)** – A smart utility for balanced team allocation, built with modern web tech and deployed on Vercel.
-* **[Student Wellness Chatbot](
+* **[Student Wellness Chatbot](https://student-wellness-chatbot-kuhl.streamlit.app/)** - An AI chatbot for supporting student mental health and wellbeing.
 * **[Churn Predictor](https://github.com/ronit404/flask-churn-app)** – An AI-powered Flask app using Random Forest & SHAP for transparent customer retention insights.
 * **[Vroom Automobiles](https://github.com/ronit404/vroom-automobiles)** – A sleek, responsive car dealership platform built with HTML/CSS/JS.
 
