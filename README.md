@@ -34,4 +34,6 @@ I am a passionate developer focused on building scalable applications and explor
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ronit404&label=Profile%20views&color=0e75b6&style=flat" alt="ronit404" />
+  <img src="https://streak-stats.demolab.com?user=ronit404" />
+
 </p>
