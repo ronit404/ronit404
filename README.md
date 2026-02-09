@@ -39,9 +39,10 @@ A responsive car dealership website built with HTML, CSS, and JavaScript.
 
 ## 📊 GitHub Stats
 
-![Ronit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronit404&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronit404&layout=compact&theme=transparent)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ronit404&show_icons=true&theme=transparent&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit404&layout=compact&theme=transparent&hide_border=true" width="48%" />
+</p>
 
 ---
 
