@@ -37,12 +37,11 @@ A responsive car dealership website built with HTML, CSS, and JavaScript.
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Presence
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronit404&theme=transparent&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronit404&layout=compact&theme=transparent&hide_border=true&cache_seconds=86400" width="48%" />
-</p>
+![Repos](https://img.shields.io/github/repos/ronit404?style=flat)
+![Stars](https://img.shields.io/github/stars/ronit404?style=flat)
+![Followers](https://img.shields.io/github/followers/ronit404?style=flat)
 
 ---
 
