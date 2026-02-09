@@ -37,11 +37,11 @@ A responsive car dealership website built with HTML, CSS, and JavaScript.
 
 ---
 
-## 📈 GitHub Presence
-
-![Repos](https://img.shields.io/github/repos/ronit404?style=flat)
-![Stars](https://img.shields.io/github/stars/ronit404?style=flat)
-![Followers](https://img.shields.io/github/followers/ronit404?style=flat)
+## 🎯 Career Interests
+- AI & Machine Learning  
+- Full-Stack Web Development  
+- Cloud & DevOps  
+- Data Science & Analytics  
 
 ---
 
