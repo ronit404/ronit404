@@ -18,30 +18,14 @@ I am a passionate developer focused on building **scalable applications** and ex
 
 ## 🚀 Featured Projects
 
-🔹 **[Agri-Marketplace](https://github.com/ronit404/agri-marketplace)**  
-A full-stack agricultural marketplace connecting farmers with buyers, featuring real-time bidding, chat, and crop management.
-
-🔹 **[Team Balancer](https://team-balancer-kohl.vercel.app/)**  
-A smart web utility that automatically creates balanced teams using intelligent logic and modern UI.
-
-🔹 **[Student Wellness Chatbot](https://student-wellness-chatbot-kuhl.streamlit.app/)**  
-An AI-powered chatbot designed to support student mental health and wellbeing.
-
-🔹 **[Churn Predictor](https://github.com/ronit404/flask-churn-app)**  
-A Flask-based ML application using Random Forest and SHAP for explainable customer churn analysis.
-
-🔹 **[Vroom Automobiles](https://github.com/ronit404/vroom-automobiles)**  
-A responsive car dealership website built with HTML, CSS, and JavaScript.
-
-👉 **Explore more on my GitHub:** https://github.com/ronit404
+* 🌾 **[Agri-Marketplace](https://github.com/ronit404/agri-marketplace)** - Connecting farmers with buyers via real-time bidding.
+* ⚖️ **[Team Balancer](https://team-balancer-kohl.vercel.app/)** - Smart utility for creating balanced teams with intelligent logic.
+* 🧠 **[Student Wellness Chatbot](https://student-wellness-chatbot-kuhl.streamlit.app/)** - AI-powered support for student mental health.
+* 📉 **[Churn Predictor](https://github.com/ronit404/flask-churn-app)** - ML application for explainable customer churn analysis.
+* 🏎️ **[Vroom Automobiles](https://github.com/ronit404/vroom-automobiles)** - Sleek car dealership frontend project.
 
 ---
 
-## 📈 GitHub Presence
-
-![Repos](https://img.shields.io/github/repos/ronit404?style=flat)
-![Stars](https://img.shields.io/github/stars/ronit404?style=flat)
-![Followers](https://img.shields.io/github/followers/ronit404?style=flat)
 ## 🎯 Career Interests
 - AI & Machine Learning  
 - Full-Stack Web Development  
@@ -50,6 +34,15 @@ A responsive car dealership website built with HTML, CSS, and JavaScript.
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=ronit404&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronit404&label=Profile%20views&color=0e75b6&style=flat" alt="ronit404" />
+  Built with ❤️ by Ronit Bhat
 </p>
