@@ -1,20 +1,57 @@
 <img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-# 👋 Hello, I'm **Ronit Bhat**!
+<h1 align="left">
+  👋 Hello, I'm <strong>Ronit Bhat</strong>!
+</h1>
 
-### 🎓 B.Tech CSE Student  
+### 🎓 B.Tech CSE Student
 I am a passionate developer focused on building **scalable applications** and exploring the intersection of **AI and Cloud Infrastructure**. I enjoy solving real-world problems using modern web and AI technologies.
+
+<p align="left">
+  <a href="https://github.com/ronit404">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ronit-bhat-2a0199321">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ronitbhat23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, C++, JavaScript (ES6+) |
-| **Web Development** | React.js, Flask, Vite, Bootstrap, Tailwind CSS |
-| **Machine Learning** | TensorFlow, Keras, OpenCV, Scikit-learn |
-| **Databases** | SQLite, PostgreSQL, MySQL, MongoDB |
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Languages</h3>
+ <img src="https://skillicons.dev/icons?i=py,java,cpp,js,ts" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Web & ML</h3>
+<img src="https://skillicons.dev/icons?i=react,flask,vite,tailwind,bootstrap,tensorflow,sklearn" />
+</td>
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+<br/><br/>
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & DevOps</h3>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,gcp,vscode" />
+</td>
+</tr>
+</table>
+</p>
 
 ---
 
