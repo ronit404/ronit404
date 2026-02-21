@@ -66,10 +66,10 @@ I am a passionate developer focused on building **scalable applications** and ex
 ---
 
 ## 🎯 Career Interests
-- AI & Machine Learning  
-- Full-Stack Web Development  
-- Cloud & DevOps  
-- Data Science & Analytics  
+I am looking to leverage my skills in **Python, Cloud Infrastructure, and AI** to build impactful solutions. I am particularly interested in:
+* **Scalability:** Optimizing cloud resources for AI workloads.
+* **Social Good:** Using AI for mental health and agriculture.
+* **Infrastructure:** Automating deployments via CI/CD pipelines.
 
 ---
 
