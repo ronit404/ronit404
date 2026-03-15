@@ -46,7 +46,7 @@ I am a passionate developer focused on building **scalable applications** and ex
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & DevOps</h3>
+    <h3>🧰 Tools</h3>
     <img src="https://skillicons.dev/icons?i=git,linux,gcp,vscode" />
 </td>
 </tr>
