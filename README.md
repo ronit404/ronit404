@@ -41,13 +41,13 @@ I am a passionate developer focused on building **scalable applications** and ex
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 <br/><br/>
 </td>
 
 <td width="50%" align="center">
     <h3>🧰 Tools & DevOps</h3>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,linux,gcp,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,linux,gcp,vscode" />
 </td>
 </tr>
 </table>
